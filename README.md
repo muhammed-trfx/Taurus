@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://c.tenor.com/sTFc7j1xRJ0AAAAS/doge-dancing-doge.gif?format=jpg&name=900x900" alt="Xeon" width="170" />
+<img src="https://bit.ly/3sC5w0G" alt="🙂❤️TAURUS" width="170" />
 
-## Doge Bot
+## TAURUS
 
 </div>
 
@@ -9,27 +9,25 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/DGXeon"><img title="Author" src="https://img.shields.io/badge/Author-Xeon-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/I-AM-MUHAMMED"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="Xeon" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
+<a href="#"><img title="MUHAMMED" src="https://img.shields.io/static/v1?label=WHATSAPP&message=AUTOMATED-BOT&color=blue"></a>
 </p>
 
 
-## 1st Repository was deleted
-Had 5+ stars and 90+ forks, please dont forget to give star before forking.🙏🙇🏼‍♂️Thank you!!
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/DogeBot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammed-trfx/test/)
 
 # Requirements
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
-* Any text editor
+ [`NODE.JS`](https://nodejs.org/en/)
+ [`GIT`](https://git-scm.com/downloads)
+ [`FFMPEG`](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+ [`LIBWEBP`](https://developers.google.com/speed/webp/download)
+  `ANY TEXT EDITOR`
 
-## `ADD BUILDPACK`
+## ADD BUILDPACK
 
 ```
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
@@ -40,13 +38,13 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/DGXeon/DogeBot/blob/master/session.json#L1)
+[`Click Here`](https://github.com/muhammed-trfx/test/blob/master/session.json#L1)
 
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/DGXeon/DogeBot.git
-🦄 cd DogeBot
+🦄 git clone https://github.com/muhammed-trfx/test.git
+🦄 cd test
 🦄 npm start
 ```
 ## For Termux
@@ -61,8 +59,8 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/DGXeon/DogeBot
-🦄 cd DogeBot
+🦄 git clone https://github.com/muhammed-trfx/test
+🦄 cd test
 🦄 ls
 🦄 rm -rf session.json
 🦄 npm install
@@ -73,16 +71,16 @@ heroku/nodejs
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+916909137213"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+919961050829"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`My Youtube Channel`](https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A)
+* [`My Youtube Channel`](https://youtube.com/c/TAURUSEDITS)
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xeon`](https://github.com/DGXeon)
+* [`Muhammed`](https://github.com/I-AM-MUHAMMED)
